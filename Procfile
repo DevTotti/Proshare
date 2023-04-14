@@ -1,0 +1,1 @@
+web: gunicorn webapps2023.wsgi  --log-file -
